@@ -1,0 +1,12 @@
+
+Administrador:
+admin1@gmail.com 
+123
+
+Donante:
+donante2@gmail.com 
+4321
+	
+Directivo:
+directivo3@gmail.com 
+7890
